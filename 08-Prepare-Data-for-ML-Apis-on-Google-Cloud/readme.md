@@ -1,0 +1,3 @@
+# Prepare Data for ML APIs on Google Cloud
+
+Complete the introductory Prepare Data for ML APIs on Google Cloud skill badge to demonstrate skills in the following: cleaning data with Dataprep by Trifacta, running data pipelines in Dataflow, creating clusters and running Apache Spark jobs in Dataproc, and calling ML APIs including the Cloud Natural Language API, Google Cloud Speech-to-Text API, and Video Intelligence API.

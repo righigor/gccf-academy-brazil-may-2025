@@ -17,6 +17,15 @@ A iniciativa é gerenciada diretamente pelo time do Google e tem como objetivo o
   - Conteúdo técnico assíncrono
   - **3 sessões ao vivo com engenheiros do Google**
   - **1 sessão de mentoria de carreira**
+- **Módulos:**
+  - 01 - Cloud Computing Fundamentals;
+  - 02 - Infrastructure in Google Cloud;
+  - 03 - Networking & Security in Google Cloud;
+  - 04 - Data, ML and AI in Google Cloud;
+  - 05 - Implement Load Balacing on Compute Engine;
+  - 06 - Set Up an App Dev Environment on Google Cloud;
+  - 07 - Build a Secure Google Cloud Network;
+  - 08 - Prepare Data for ML APIs on Google Cloud.
 
 ## 🚀 Objetivo do repositório
 
@@ -32,7 +41,7 @@ Este repositório terá:
 - Armazenamento e banco de dados na nuvem
 - Redes e segurança
 - Computação escalável
-- Práticas e ferramentas DevOps na nuvem
+- Inteligência artificial e aprendizado de máquina
 
 ---
 
