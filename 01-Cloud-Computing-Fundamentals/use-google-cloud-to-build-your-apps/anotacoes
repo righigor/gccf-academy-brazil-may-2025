@@ -1,0 +1,53 @@
+Compute Engine:
+  - no upfront investments
+  - thousands of virtual CPUs can run on a system thats designed to be fast and offer consistent performance
+  - each VM contains the power and functionality of a full-fledged operating system
+  - run any computing workload such as web-server hosting, application hosting and application backend
+
+IaaS
+  - shae compute resources using vms by virtualizing the hardware
+
+Configurable system
+  - Customizable installation, configuration and building;
+  - Large, slow anf costly
+
+App Engine
+  - Access to programming services to write your code;
+  - Seamless, independent and rapid scaling;
+  - No fine-tuning the underlying architecture to save cost;
+
+Containers
+  - Independent scalability of workloads in PaaS and an abstraction layer of the OS and hardware in IaaS;
+
+
+KUBERNETES
+  - A container orchestration system;
+  - Install the system on local servers in the cloud;
+  - Manage containers networking and data storage;
+  - Deploy rollouts and rollbacks;
+  - Monitor and manage container and host health;
+
+
+LABS
+  Creating a Virtual Machine:
+    - Create a virtual machine with the Google Cloud Console;
+    - Create a virtual machine with the gcloud command-line tool;
+    - Deploy a web server and aconnect it to a virtual machine;
+
+  App Engine: Qwik Start:
+    - Download an application;
+    - Test the application locally;
+    - Deploy the application to App Engine;
+    - View the application in a web browser;
+
+  Cloud Run Functions: Qwik Start - Command Line:
+    - Create a simple cloud function;
+    - Deploy and test the function;
+    - View logs.
+
+  Kubernetes Engine: Qwik Start:
+    - Set a default compute zone;
+    - Create a GKE cluster;
+    - Get authentication credentials for the cluster;
+    - Deploy an application to the cluster;
+    - Delete the cluster;
